@@ -1,0 +1,7 @@
+package com.gestion.gestiondestock.domaine;
+
+import domaine.Fonctionnaire;
+
+public class delegue extends Fonctionnaire {
+
+}
